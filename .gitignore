@@ -1,0 +1,6 @@
+moc_*
+*.o
+*.pro.user
+Makefile
+visualnews/*
+ui_*.h
